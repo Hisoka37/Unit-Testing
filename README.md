@@ -6,5 +6,5 @@
 - Explain why testing code is important.
 
 # Getting Started
-- To Install Run `npm i --save-dev jest`.
+- To Install Run `npm i jest --save-dev`.
 - To Run tests `npm test`.
